@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋, I'm Kurmanbek</h1>
 
-- 📬 My mail: [k_kaziuly](mailto:k_kaziuly@kbtu.kz)
+- 📬 My mail: [k_kaziuly@kbtu.kz](mailto:k_kaziuly@kbtu.kz)
 
 ## Connect with me:
 ## Connect with me:
