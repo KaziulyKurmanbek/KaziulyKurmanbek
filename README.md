@@ -3,15 +3,10 @@
 - 📬 My mail: [k_kaziuly](mailto:k_kaziuly@kbtu.kz)
 
 ## Connect with me:
-<p align="left">
-  <a href="https://www.instagram.com/http.kurmash" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/https_kurmash" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
-  </a>
-</p>
+## Connect with me:
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" alt="Instagram">](https://www.instagram.com/http.kurmash)
+&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram">](https://t.me/https_kurmash)
 ## Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
